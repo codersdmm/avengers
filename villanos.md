@@ -2,4 +2,3 @@
 
 * Dr. Doom
 * RedShot
-* Capitán América
